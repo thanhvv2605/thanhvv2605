@@ -3,7 +3,7 @@
 **AI Engineer & Reinforcement Learning Researcher.** I build production LLM applications,
 speech and multimodal systems, and research multi-agent deep RL.
 
-📍 Vietnam (UTC+7), planning to relocate to Germany / Western Europe.
+📍 Vietnam (UTC+7)
 Open to **AI Engineer / Applied Scientist** roles: on-site in the EU or remote for US teams.
 
 ---
